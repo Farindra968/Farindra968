@@ -37,9 +37,9 @@ A passionate Frontend Developer crafting stunning, responsive web experiences wi
 
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Farindra968" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Farindra968" />
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farindra968&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farindra968&layout=compact&langs_count=8&card_width=320" />
 </p>
 
 
