@@ -35,12 +35,11 @@ A passionate Frontend Developer crafting stunning, responsive web experiences wi
   <img src="https://github-profile-trophy.vercel.app/?username=Farindra968&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies">
 </p>
 
-\\
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Farindra968?cardType=level&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
-\\
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farindra968&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farindra968&layout=compact&theme=radical" alt="Top Languages" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Farindra968" />
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Farindra968&layout=compact&langs_count=8&card_width=320" />
 </p>
 
 
