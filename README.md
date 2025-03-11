@@ -1,16 +1,10 @@
-# 👋 Hello, I'm Farindra Bhandari
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farindra968&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile view counter">
-</p>
-
-> 🚀 Frontend Developer passionate about creating beautiful, responsive, and user-friendly web applications.
+# 🙏 Hello, I'm Farindra Bhandari
 
 ---
 
 ## 💻 About Me
 
-I'm a passionate frontend developer with expertise in modern web technologies. I specialize in building responsive, high-performance web applications and continuously learning new technologies to improve my skills.
+A passionate Frontend Developer crafting stunning, responsive web experiences with expertise in **HTML, CSS, TailwindCSS, JavaScript, React.js, Next.js, Git, etc**. Driven by innovation and precision, delivering code that brings designs to life.
 
 - 🔭 Currently working on **React & Next.js Projects**
 - 🌱 Learning **Backend Development (Node.js & Express)**
@@ -41,6 +35,13 @@ I'm a passionate frontend developer with expertise in modern web technologies. I
   <img src="https://github-profile-trophy.vercel.app/?username=Farindra968&theme=radical&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies">
 </p>
 
+
+/
+![Farindra968's Stats](https://github-readme-stats.vercel.app/api?username=Farindra968&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Farindra968's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Farindra968&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![Farindra968's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Farindra968&theme=vue-dark&hide_border=true)
+/
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Farindra968&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farindra968&layout=compact&theme=radical" alt="Top Languages" />
