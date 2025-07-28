@@ -72,11 +72,6 @@ Hi, I'm **Farindra Bhandari** — a passionate **Full Stack Developer** from Nep
 
 ---
 
-### 🗓️ Contribution Graph
-
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=farindra968&theme=react-dark" />
-</p>
 
 ---
 
