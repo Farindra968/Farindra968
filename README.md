@@ -2,7 +2,7 @@
 <h3 align="center">💻 A Passionate Full Stack Developer from Nepal 🇳🇵</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1F75C3&width=435&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Astro+%7C+Node+%7C+MongoDB+%7C+MySQL;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1F75C3&width=435&lines=Full+Stack+Developer;Full+Stack+SaaS+Web+Developer;React+%7C+Next.js+%7C+Astro+%7C+Node+%7C+MongoDB+%7C+MySQL;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
