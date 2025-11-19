@@ -52,7 +52,7 @@ Hi, I'm **Farindra Bhandari** — a passionate **Full Stack Developer** from Nep
 
 **Backend & Database:**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,sequelize,supabase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,mongodb,mysql,postgres,sequelize,supabase" />
 </p>
 
 **Tools & Others:**
