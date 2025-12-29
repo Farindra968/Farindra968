@@ -15,7 +15,7 @@
 Hi, I'm **Farindra Bhandari**, a passionate **Full Stack Developer** focused on building **scalable SaaS applications** that are fast, secure, and user-friendly.
 
 - 🔭 Currently working on **SaaS-based Web Applications**
-- 🏗️ Actively involved in **Real Estate SaaS Project**
+- 🏗️ Actively involved in **SaaS Project**
 - 🌱 Learning **NestJS, Fastify, Prisma, Microservices**
 - 🌐 Portfolio: [https://fbb.com.np](https://fbb.com.np)
 - 📧 Email: **farindrabahadurbhandari@gmail.com**
@@ -74,16 +74,13 @@ Hi, I'm **Farindra Bhandari**, a passionate **Full Stack Developer** focused on 
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Farindra968&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Farindra968&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farindra968&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farindra968&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farindra968&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=farindra968&theme=tokyonight" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Farindra968&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
