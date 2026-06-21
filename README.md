@@ -59,7 +59,7 @@ Hi, I'm **Farindra Bhandari**, a passionate **Full Stack Developer** focused on 
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,python" />
 </p>
 
 ### 🗄️ Databases
