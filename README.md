@@ -1,108 +1,197 @@
-<h1 align="center">Hi 👋, I'm Farindra Bhandari</h1>
-<h3 align="center">💻 Full Stack SaaS Developer from Nepal 🇳🇵</h3>
-
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1F75C3&center=true&vCenter=true&width=700&lines=Full+Stack+SaaS+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Astro+%7C+Node.js;REST+APIs+%7C+Databases+%7C+Cloud;Open+Source+Contributor" 
-    alt="Typing SVG" 
-  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=180&section=header&text=Farindra%20Bhandari&fontSize=44&fontColor=10B981&fontAlignY=42&desc=%3E%20full-stack%20developer%20_%20backend%20engineer%20_%20saas%20builder&descSize=16&descAlignY=62&descAlign=50&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=560&lines=building+scalable+saas+%26+backend+systems;currently+leveling+up+in+go;node.js+%C2%B7+typescript+%C2%B7+postgresql;always+learning%2C+always+shipping" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Followers](https://img.shields.io/github/followers/Farindra968?label=followers&style=flat-square&color=10B981&labelColor=0D1117)](https://github.com/Farindra968)
+[![Repos](https://img.shields.io/badge/repos-view_all-10B981?style=flat-square&labelColor=0D1117)](https://github.com/Farindra968?tab=repositories)
+[![Views](https://komarev.com/ghpvc/?username=Farindra968&style=flat-square&color=10B981&labelColor=0D1117&label=views)](https://github.com/Farindra968)
+
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+```
+$ whoami
+```
 
-Hi, I'm **Farindra Bhandari**, a passionate **Full Stack Developer** focused on building **scalable SaaS applications** that are fast, secure, and user-friendly.
+I build **modern, scalable, production-ready** web applications, with a growing focus on backend engineering, microservices, and system design. Currently deepening my backend expertise with **Go**, while shipping day-to-day with **TypeScript, Node.js, and PostgreSQL**.
 
-- 🔭 Currently working on **SaaS-based Web Applications**
-- 🏗️ Actively involved in **SaaS Project**
-- 🌱 Learning **NestJS, Fastify, Prisma, Microservices**
-- 🌐 Portfolio: [https://fbb.com.np](https://fbb.com.np)
-- 📧 Email: **farindrabahadurbhandari@gmail.com**
-- 📍 Location: **Miklajung, Nepal (UTC +5:45)**
-- 🗣️ Languages: **English, Nepali**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+- `⚙` Strong interest in backend development & API architecture
+- `🏗` Building SaaS platforms and microservices-based systems
+- `🗄` Comfortable across SQL & NoSQL databases
+- `🔐` Focused on auth, security & scalable system design
 
-## 🛠️ What I Do
+</td>
+<td width="50%" valign="top">
 
-- Design & develop **Full Stack SaaS platforms**
-- Build secure and scalable **REST APIs**
-- Work with **SQL & NoSQL databases**
-- Create **SEO-friendly**, high-performance web apps
-- Convert complex business logic into clean UI/UX
+- `☁` Exploring cloud infrastructure, deployment & DevOps
+- `🐹` Currently learning and building with Go
+- `🤖` Exploring AI / LLM-powered applications
+- `🌱` Always learning, building, and shipping
 
----
+</td>
+</tr>
+</table>
 
-## 🔗 Connect With Me
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/farindra-bahadur-bhandari/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
-  </a>
-  <a href="mailto:farindrabahadurbhandari@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="32" />
-  </a>
-  <a href="https://github.com/farindra968" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="32" />
-  </a>
-</p>
+```
+$ cat tech-stack.txt
+```
 
----
+<div align="">
 
-## 🚀 Tech Stack
+<table>
+<tr><td width="120"><b>frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,tailwind,html,css,js,ts,redux,bootstrap,sass&theme=dark" /></td></tr>
+<tr><td><b>backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,python&theme=dark" /></td></tr>
+<tr><td><b>data</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sequelize,prisma,supabase&theme=dark" /></td></tr>
+<tr><td><b>tooling</b></td><td><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel,cloudflare,postman,linux,figma,md,wordpress&theme=dark" /></td></tr>
+</table>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,vite,tailwind,html,css,js,ts,redux,bootstrap,sass" />
-</p>
+</div>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,python" />
-</p>
+<br/>
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sequelize,prisma,supabase" />
-</p>
+```
+$ ls what-i-build/
+```
 
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vercel,cloudflare,postman,linux,figma,md,wordpress" />
-</p>
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
----
+**saas-platforms/**
+- Multi-tenant architecture
+- Auth & RBAC
+- Subscription & billing
+- Feature flagging
+- Custom domains
+- Analytics & notifications
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Farindra968&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Farindra968&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farindra968&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</td>
+<td width="33%" valign="top">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Farindra968&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**backend-systems/**
+- REST APIs
+- Microservices
+- PostgreSQL & Redis
+- Background job processing
+- Authentication services
 
----
+</td>
+<td width="33%" valign="top">
 
-## 📦 Featured Projects
+**e-commerce/**
+- Buyer & seller platforms
+- Product management
+- Orders & payments
+- Messaging & KYC
+- Reviews & disputes
 
-| Project | Description | Tech Stack |
-|-------|-------------|------------|
-| 🏠 **Real Estate SaaS App** | Property management & listing system | Next.js, Node.js, MongoDB |
-| 🌐 **Portfolio Website** | Personal brand & projects | Astro.js, Tailwind |
-| 🔐 **Authentication API** | Secure JWT-based auth system | Node.js, Express, PostgreSQL |
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## ⚡ Fun Facts
+```
+$ ls pinned/
+```
 
-- 🔁 I enjoy simplifying complex systems into elegant solutions  
-- 🌱 Constantly learning new SaaS architectures & backend patterns  
-- 🤖 Exploring AI tools to improve developer productivity  
-- 🎥 Tech & coding content on YouTube — **Coming Soon!**
+<table width="100%">
+<tr>
+<th align="left">project</th>
+<th align="left">description</th>
+<th align="left">stack</th>
+</tr>
+<tr>
+<td><code>your-flagship-project</code></td>
+<td>One-line description of what it does and why it matters</td>
+<td><code>node</code> <code>postgres</code> <code>redis</code></td>
+</tr>
+<tr>
+<td><code>your-second-project</code></td>
+<td>One-line description of what it does and why it matters</td>
+<td><code>go</code> <code>docker</code></td>
+</tr>
+</table>
 
----
+<br/>
 
-<p align="center">
-  🚀 <i>Thanks for visiting! Feel free to follow or star repositories.</i>
-</p>
+```
+$ git log --stats
+```
+
+<div align="">
+
+<img src="https://github-readme-stats.shion.dev/api?username=farindra968&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=farindra968&theme=github_dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=10B981&text_color=c9d1d9" height="165" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=farindra968&theme=github-dark-blue&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981" alt="GitHub Streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farindra968&theme=github-compact&hide_border=true&bg_color=0D1117&color=10B981&line=10B981&point=c9d1d9" width="100%" alt="Contribution Activity"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=farindra968&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+```
+$ cat roadmap-2026.md
+```
+
+<div align="">
+
+| goal | area |
+|:--|:--:|
+| Master Go for production backend systems | `lang` |
+| Sharpen system design & architecture skills | `arch` |
+| Ship production-grade microservices | `backend` |
+| Deepen cloud & DevOps knowledge | `infra` |
+| Build and launch scalable SaaS products | `product` |
+| Explore practical AI engineering | `ai` |
+| Contribute more to open source | `oss` |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+"Build simple. Think scalable. Learn continuously. Ship consistently."
+```
+
+I believe the best way to learn software engineering is to build real systems, solve real problems, and continuously refine the architecture along the way.
+
+</div>
+
+<br/>
+
+```
+$ echo "let's connect"
+```
+
+<div align="center">
+
+<!-- Swap in your real profiles — remove any you don't use -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-10B981?style=flat-square&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://www.linkedin.com/in/farindra-bahadur-bhandari/)
+[![Portfolio](https://img.shields.io/badge/portfolio-10B981?style=flat-square&logo=vercel&logoColor=0D1117&labelColor=0D1117)](https://fbb.com.np)
+[![Email](https://img.shields.io/badge/email-10B981?style=flat-square&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:farindra968.com)
+
+Open to collaborating on **SaaS · Backend Engineering · Microservices · System Design · AI · Open Source**.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer"/>
+
+</div>
